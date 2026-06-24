@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.egg-info
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Project-specific env (optional but safe)
+updatedlangchain/.env
+
+# Jupyter
+.ipynb_checkpoints/
